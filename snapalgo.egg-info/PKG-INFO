@@ -1,13 +1,13 @@
 Metadata-Version: 2.1
 Name: snapalgo
-Version: 0.0.3
+Version: 0.0.3.1
 Summary: Various Coding algorithms
-Home-page: 
+Home-page: https://github.com/midnightbot/snapalgo
 Author: Anish Adnani
 Author-email: anishadnani00@gmail.com
 License: MIT
 Keywords: python,coding,template,algo,algorithms
-Classifier: Development Status :: 1 - Planning
+Classifier: Development Status :: 5 - Production/Stable
 Classifier: Intended Audience :: Developers
 Classifier: Programming Language :: Python :: 3
 Classifier: Operating System :: Unix
