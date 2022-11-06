@@ -1,0 +1,11 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+snapalgo/__init__.py
+snapalgo.egg-info/PKG-INFO
+snapalgo.egg-info/SOURCES.txt
+snapalgo.egg-info/dependency_links.txt
+snapalgo.egg-info/top_level.txt
+snapalgo/sorting/__init__.py
