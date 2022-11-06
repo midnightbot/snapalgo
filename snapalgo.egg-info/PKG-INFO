@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: snapalgo
-Version: 0.0.3.1
+Version: 0.0.6.3
 Summary: Various Coding algorithms
 Home-page: https://github.com/midnightbot/snapalgo
 Author: Anish Adnani
@@ -15,4 +15,4 @@ Classifier: Operating System :: MacOS :: MacOS X
 Classifier: Operating System :: Microsoft :: Windows
 License-File: LICENCE.txt
 
-Algorithm Support
+Code generating code
