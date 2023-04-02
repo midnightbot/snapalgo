@@ -3,7 +3,7 @@ from pathlib import Path
 
 setup(
   name='snapalgo',
-  version='0.0.7',
+  version='0.0.7.1',
   description='Coding Helper',
   long_description=Path("README.md").read_text(encoding="utf-8"),
   long_description_content_type="text/markdown",
