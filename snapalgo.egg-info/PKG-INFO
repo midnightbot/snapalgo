@@ -1,18 +1,29 @@
 Metadata-Version: 2.1
 Name: snapalgo
-Version: 0.0.6.3
-Summary: Various Coding algorithms
+Version: 0.0.7
+Summary: Coding Helper
 Home-page: https://github.com/midnightbot/snapalgo
 Author: Anish Adnani
 Author-email: anishadnani00@gmail.com
 License: MIT
 Keywords: python,coding,template,algo,algorithms
+Platform: UNKNOWN
 Classifier: Development Status :: 5 - Production/Stable
 Classifier: Intended Audience :: Developers
 Classifier: Programming Language :: Python :: 3
 Classifier: Operating System :: Unix
 Classifier: Operating System :: MacOS :: MacOS X
 Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
 License-File: LICENCE.txt
 
-Code generating code
+SnapAlgo is coding helper
+
+- **Website:** https://github.com/midnightbot/snapalgo
+- **Source Code:** https://github.com/midnightbot/snapalgo
+- **Bug Reports:** https://github.com/midnightbot/snapalgo/issues
+
+SnapAlgo provides
+- Templates for various complex algorithms
+- Functions to solve complex algorithms
+

@@ -11,6 +11,11 @@ snapalgo.egg-info/requires.txt
 snapalgo.egg-info/top_level.txt
 snapalgo/sorting/__init__.py
 snapalgo/template_generator/__init__.py
+snapalgo/template_generator/inorder.py
+snapalgo/template_generator/postorder.py
+snapalgo/template_generator/preorder.py
+snapalgo/template_generator/radix_sort.py
+snapalgo/template_generator/segment_tree.py
 snapalgo/template_generator/trie.py
 snapalgo/template_generator/union_find.py
 snapalgo/trees/__init__.py

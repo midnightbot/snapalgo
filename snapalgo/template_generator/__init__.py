@@ -1,25 +1,25 @@
 import pyperclip
 import os
 
-def union_find():
+def load_template(template_name):
     curr_path = os.path.dirname(__file__)
-    file_path = os.path.join(curr_path, './union_find.py')
-    union_find_code = ""
+    file_path = os.path.join(curr_path, './' + template_name + '.py')
+    template_code = ""
     with open(file_path, 'r') as f:
-        union_find_code = f.read()
+        template_code = f.read()
 
     f.close()
-    pyperclip.copy(union_find_code)
-    return union_find_code
+    pyperclip.copy(template_code)
+    return template_code
 
-
-def trie():
-    curr_path = os.path.dirname(__file__)
-    file_path = os.path.join(curr_path, './trie.py')
-    trie_code = ""
-    with open(file_path, 'r') as f:
-        trie_code = f.read()
-
-    f.close()
-    pyperclip.copy(trie_code)
-    return trie_code
+def list_available_templates():
+    arr = []
+    arr.append('union_find')
+    arr.append('trie')
+    arr.append('segment_tree')
+    arr.append('radix_sort')
+    arr.append('preorder')
+    arr.append('postorder')
+    arr.append('inorder')
+    print(arr)
+    return arr

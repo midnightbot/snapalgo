@@ -1,10 +1,12 @@
 from setuptools import setup, find_packages
- 
+from pathlib import Path
+
 setup(
   name='snapalgo',
-  version='0.0.6.3',
-  description='Various Coding algorithms',
-  long_description='Code generating code',
+  version='0.0.7',
+  description='Coding Helper',
+  long_description=Path("README.md").read_text(encoding="utf-8"),
+  long_description_content_type="text/markdown",
   url='https://github.com/midnightbot/snapalgo',  
   author='Anish Adnani',
   author_email='anishadnani00@gmail.com',
